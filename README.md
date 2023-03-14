@@ -10,13 +10,3 @@ This tutorial does not try to provide a general, self-contained introduction to 
 
 As always, it is strongly recommended to play with the code snippets, change them, test when things break, etc. This is crucial for learning any programming language — just as it is crucial to speak, and not just listen, in order to learn a human language.
 
-## Further Resources
-A plethora of resources for learning and mastering Python exist, and likewise for applying particular Python libraries (e.g. Panda or NumPy) in particular problem domains (e.g. data analysis or scientific computing). The following list enumerates a few resources suitable for beginners, with no claim of exhaustiveness:
-
-Python homepage
-Official Python tutorial
-Beginners guide for programmers
-Python Style Guide
-Python standard library
-Python package index
-A cheat sheet, and 8 more cheat sheets
